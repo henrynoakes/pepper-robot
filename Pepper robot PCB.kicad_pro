@@ -484,8 +484,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "My footprints"
+    ],
+    "pinned_symbol_libs": [
+      "symbols",
+      "My symbols"
+    ]
   },
   "meta": {
     "filename": "Pepper robot PCB.kicad_pro",
@@ -649,6 +654,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -661,13 +674,13 @@
         "uuid": "45f6e61e-b9aa-4a85-996b-d520c7d883ff"
       }
     ],
-    "used_designators": "#PWR1-2,C1-2,J1-11,H1-4",
+    "used_designators": "SW1-2,U1,#PWR1-3,C1-9,J1-11,H1-4",
     "variants": []
   },
   "sheets": [
     [
       "45f6e61e-b9aa-4a85-996b-d520c7d883ff",
-      "Root"
+      "Pepper robot PCB"
     ]
   ],
   "text_variables": {},
