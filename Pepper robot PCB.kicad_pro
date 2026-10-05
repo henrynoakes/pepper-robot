@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Pepper Robot PCB.kicad_pro",
+    "filename": "Pepper robot PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Pepper Robot PCB.kicad_sch",
-        "name": "Root",
+        "filename": "Pepper robot PCB.kicad_sch",
+        "name": "Pepper robot PCB",
         "uuid": "45f6e61e-b9aa-4a85-996b-d520c7d883ff"
       }
     ],
