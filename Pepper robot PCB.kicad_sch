@@ -3329,7 +3329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight"
 			(at 81.28 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3411,7 +3411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 87.63 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3811,7 +3811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 231.14 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4142,7 +4142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 158.75 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4394,7 +4394,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 182.88 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4476,7 +4476,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 250.19 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4558,7 +4558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 111.76 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4720,7 +4720,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4965,7 +4965,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 135.89 40.64 0)
 			(hide yes)
 			(show_name no)
